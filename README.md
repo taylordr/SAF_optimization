@@ -1,5 +1,5 @@
 # SAF_optimization
-This code implements the optimization of phase synchronization for newtorks of coupled phase oscillators 
+Implements the optimization of synchronization for networks of heterogeneous phase oscillators 
 with natural frequencies drawn from a normal distribution. For any usage of this code, please cite:
 D Taylor, PS Skardal, J Sun. (2016) ''Synchronization of heterogeneous oscillators under network 
 modifications: Perturbation and optimization of the synchrony alignment function.'' 
