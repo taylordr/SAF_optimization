@@ -1,9 +1,9 @@
 # SAF_optimization
 Implements the optimization of synchronization for networks of heterogeneous phase oscillators 
 with natural frequencies drawn from a normal distribution. For any usage of this code, please cite:
-D Taylor, PS Skardal, J Sun. (2016) ''Synchronization of heterogeneous oscillators under network 
-modifications: Perturbation and optimization of the synchrony alignment function.'' 
-arXiv preprint:  http://arxiv.org/abs/1605.04009
+
+D Taylor, PS Skardal, J Sun. (2016) ''Synchronization of heterogeneous oscillators under network modifications: Perturbation and optimization of the synchrony alignment function.'' SIAM Journal on Applied Mathematics 76(5), 1984-2008
+https://epubs.siam.org/doi/abs/10.1137/16M1075181
 
 The following files are included:
 
@@ -19,4 +19,4 @@ The following files are included:
 10. algorithm_6_1.m - implements Algorithm 6.1
 11. algorithm_6_2.m - implements Algorithm 6.2
 
-If you have any questions about the code, please email Dane Taylor at dane.r.taylor@gmail.com.
+If you have any questions about the code, please email Dane Taylor at danet@buffalo.edu.
